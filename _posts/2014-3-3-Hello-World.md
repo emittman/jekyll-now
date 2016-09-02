@@ -3,7 +3,7 @@ layout: post
 title: Hey, I have a website :)
 ---
 
-![_config.yml](/images/cabin2.JPG)
+![_config.yml](/images/cabin2.png)
 
 
 Summer ending, time to learn something new...
