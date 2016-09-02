@@ -1,10 +1,13 @@
 ---
 layout: post
-title: I'm up and running!
+title: Hey, I have a website :)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![_config.yml]({{ site.baseurl }}/images/cabin2.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-Link to my GitHub page: [Jekyll Now repository](https://github.com/emittman)
+Summer ending, time to learn something new...
+
+I've been meaning to put together a website for a couple years. This may be it.
+
+Link to my GitHub page -> [here](https://github.com/emittman)
