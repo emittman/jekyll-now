@@ -3,7 +3,7 @@ layout: post
 title: Hey, I have a website :)
 ---
 
-![_config.yml]({{ site.baseurl }}/images/cabin2.JPG)
+![_config.yml](/images/cabin2.JPG)
 
 
 Summer ending, time to learn something new...
