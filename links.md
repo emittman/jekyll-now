@@ -5,8 +5,8 @@ title: Links
   
 Statistics Blogs:
 
-- [Andrew Gelman, coauthor of Bayesian Data Analysis](andrewgelman.com)
+- [Andrew Gelman, coauthor of Bayesian Data Analysis](http://andrewgelman.com)
 
 Cartoons:
 
-- [Saturday Morning Breakfast Cereal](www.smbc-comics.com)
+- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com)
