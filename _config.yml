@@ -6,7 +6,7 @@
 name: Eric T. Mittman
 
 # Short bio or description (displayed in the header)
-description: Statistics PhD Candidate
+description: PhD Candidate in Statistics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/me.jpg
@@ -17,12 +17,12 @@ avatar: images/me.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mathteacher.mittman@gmail.com
   facebook:
   flickr:
   github: emittman/emittman.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/eric-mittman-94074878
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
