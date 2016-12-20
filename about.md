@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: About
-permalink: /about/
+# permalink: /about/
 ---
 
 I am a 4th year PhD Candidate at Iowa State University. In my time here I have been an instructor for an introductory statistics course, a research assistant in the RNA-seq group and a consultant for the Agricultural Experiment Station consulting group which also provides support to the college of Liberal Arts and Sciences.
