@@ -4,10 +4,10 @@ title: About
 # permalink: /about/
 ---
 
-I am a 4th year PhD Candidate at [Iowa State University](http://www.iastate.edu/). [(Resume)](../rsm.pdf) Currently, I am a Research Assistant in the RNA-seq group and a consultant for the [Agricultural Experiment Station consulting group](http://stat.iastate.edu/agriculture-experiment-station-consulting-group).
+I am a 4th year PhD Candidate at [Iowa State University](http://www.iastate.edu/) working with [Jarad Niemi](http://www.jarad.me/). Currently, I am a Research Assistant in the RNA-seq group and a consultant for the [Agricultural Experiment Station consulting group](http://stat.iastate.edu/agriculture-experiment-station-consulting-group).  [(Resume)](../rsm.pdf) 
 
 ### Research
-In my research, I use computationally intensive [Markov Chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) samping methods to fit Bayesian hierarchical models. My area of application is gene expression data analysis using flexible, nonparametric models. 
+In my research, I use computationally intensive [Markov Chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) samping methods to fit Bayesian models. My favorite black box to use is [Stan](http://mc-stan.org/). My area of application is gene expression data analysis using flexible, nonparametric hierarchical models.
 
 ### Personal
 Jessa and I are proud parents of three children, ages 1, 6 and 9. We met while Sophomores at [Luther College](https://www.luther.edu/) in beautiful [Decorah, Iowa](http://www.visitdecorah.com/). I have two younger brothers: Scott is a graduate student at [Northern Arizona University](http://nau.edu/) and  Michael is Vice President at [Cellencor](http://www.cellencor.com/) in Ankeny, IA.
