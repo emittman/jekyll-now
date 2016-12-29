@@ -1,5 +1,5 @@
 ---
 layout: post
-title: First 335 characters
+title: Hello World!
 ---
-This site is based on Barry Clark's freely available ["Jekyll Now"](https://github.com/barryclark/jekyll-now) tutorial. As a computer geek, I like the separation of content and structure. I haven't figured out how all the templating works, but it seems pretty intuitive and there is good documentation [here](https://jekyllrb.com/docs/templates/). I am not very interested in CSS, so it is a plus that I like the look.
+This site is based on Barry Clark's freely available Jekyll Now theme [source code]((https://github.com/barryclark/jekyll-now)) and [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). As someone with only rudimentary knowledge of web development, I am pleased with the results and the ease of set-up. Using GitHub pages makes the workflow extremely simple, you just write Markdown then add, commit, push changes and the GitHub pages takes it from there.
