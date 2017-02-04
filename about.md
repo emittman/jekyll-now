@@ -28,4 +28,4 @@ These days, I like to play out of old piano books while hanging out at home. Pre
 
 
 ### Contact me
-[emittman@iastate.edu(mailto:emittman@iastate.edu)
+[emittman@iastate.edu](mailto:emittman@iastate.edu)
