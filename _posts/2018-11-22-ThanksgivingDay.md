@@ -10,5 +10,5 @@ Portland to St. Paul, 36 hours, with two overnights.
 We managed to leave our car parked at home by taking advantage of the
 downtown Hillsboro 
 MAX stop. Here's what the rest of us looked like at this point.
-![random pizza picture](https://github.com/emittman/emittman.github.io/images/pizza.jpg)
+![random pizza picture](https://emittman.github.io/images/pizza.jpg "Yummy!")
       
