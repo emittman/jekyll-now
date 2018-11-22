@@ -21,7 +21,7 @@ Jessa and I are proud parents of three children, ages 1, 6 and 9. We met while S
 I mostly run for fitness, but occasionally train to compete. In 2013, I ran my PR in the Minneapolis Marathon (2:49).
 
 - Cooking:
-Cooking is fun. Usually, I do basic weeknight stuff like pasta or roasted chicken and vegtables. During warm months I like to get the grill going on the weekend. Having worked previously at [Pagliai's Pizza](http://www.pagliaisic.com/) and [New Pioneer Food Co-op](https://www.newpi.coop/) in Iowa City, I've learned how to make good [pie](https://emittman.github.io/images/pizza.jpg).
+Cooking is fun. Usually, I do basic weeknight stuff like pasta or roasted chicken and vegtables. During warm months I like to get the grill going on the weekend. Having worked previously at [Pagliai's Pizza](http://www.pagliaisic.com/) and [New Pioneer Food Co-op](https://www.newpi.coop/) in Iowa City, I've learned how to make good ![pie](https://emittman.github.io/images/pizza.jpg).
 
 - Making music:
 These days, I like to play out of old piano books while hanging out at home. Previously I had the pleasure of being a member of the [City High](https://cityhighmusic.jimdo.com/orchestra/) and [Luther College](https://www.luther.edu/music/symphony-orchestra/) symphonic orchestras, playing the string bass.
